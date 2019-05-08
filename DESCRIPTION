@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Arthur",
            family = "Koehl",
            role = c("aut", "cre"),
-           email = "avkoehl.ucdavis.edu")
+           email = "avkoehl@ucdavis.edu")
 Description: This package has several sample corpuses to test out text mining methods. Used for learning purposes.
 License: MIT + file LICENSE
 Encoding: UTF-8
