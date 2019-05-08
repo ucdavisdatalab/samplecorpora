@@ -10,3 +10,4 @@ Description: This package has several sample corpuses to test out text mining me
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
