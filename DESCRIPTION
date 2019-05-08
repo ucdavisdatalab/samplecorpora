@@ -1,0 +1,12 @@
+Package: samplecorpora
+Title: A package providing several sample corpuses for text mining.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Arthur",
+           family = "Koehl",
+           role = c("aut", "cre"),
+           email = "avkoehl.ucdavis.edu")
+Description: This package has several sample corpuses to test out text mining methods. Used for learning purposes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
